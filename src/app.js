@@ -21,7 +21,7 @@ function addTodo() {
 
 function updateTodoList() {
     todoListUL.innerHTML = '';
-    allTodos.forEach((todo, todoIndex) => {
+    allTodos.forEach((todo) => {
         const todoItem = createTodoItem(todo);
         todoListUL.append(todoItem);
     })
