@@ -1,4 +1,4 @@
-# ✅ Todo App
+#  Todo App
 
 A simple and interactive task management application built with vanilla JavaScript.
 This project demonstrates dynamic UI updates, state management, and user interaction handling.
@@ -7,11 +7,11 @@ This project demonstrates dynamic UI updates, state management, and user interac
 
 ## Live Demo
 
-👉 https://oussama-dalhi.github.io/todo-app/
+ https://oussama-dalhi.github.io/todo-app/
 
 ---
 
-## ✨ Features
+##  Features
 
 *  Add new tasks
 *  Mark tasks as completed
@@ -23,7 +23,7 @@ This project demonstrates dynamic UI updates, state management, and user interac
 
 ---
 
-## 🧠 What This Project Demonstrates
+##  What This Project Demonstrates
 
 * DOM manipulation and event handling
 * Managing application state (tasks list)
@@ -32,7 +32,7 @@ This project demonstrates dynamic UI updates, state management, and user interac
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * HTML5
 * CSS3
@@ -40,7 +40,7 @@ This project demonstrates dynamic UI updates, state management, and user interac
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```plaintext id="todo21x"
 .
@@ -56,7 +56,7 @@ This project demonstrates dynamic UI updates, state management, and user interac
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ```bash id="todo98x"
 git clone https://github.com/oussama-dalhi/todo-app.git
@@ -67,28 +67,22 @@ Open `index.html` in your browser.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 ![alt text](image.png)
 ![alt text](image-1.png)
 
 ---
 
-## 🌟 Future Improvements
-
-* 💾 Persist tasks using localStorage
-* ✏️ Edit existing tasks
-* 📱 Improve mobile responsiveness
-* 🎨 Add filters (All / Completed / Active)
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for learning purposes and demonstrates core JavaScript concepts.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Built as part of practicing JavaScript fundamentals.
 
